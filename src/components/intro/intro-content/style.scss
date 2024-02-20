@@ -6,7 +6,7 @@
   display: flex;
   padding-top: 20px;
   @include small-screen {
-    padding-top: 125px;
+    padding-top: 100px;
     align-items: flex-end;
   }
   .layout {

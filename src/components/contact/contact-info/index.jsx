@@ -7,8 +7,7 @@ const ContactInfo = () => {
   return (
     <div className="contact-info-box">
       <h4>
-        I would be happy to answer any questions you may have about freelance
-        writing or content marketing!
+      Feel free to ask any questions you might have regarding freelance writing or content marketing! I'm here to provide expert assistance and guidance.
       </h4>
       <div className="contact-option">
         <FaPhoneAlt/>
